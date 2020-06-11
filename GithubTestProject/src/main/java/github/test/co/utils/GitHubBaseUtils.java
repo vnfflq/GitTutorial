@@ -14,4 +14,8 @@ public class GitHubBaseUtils {
 	public String getOne(String str) {
 		return "1";
 	}
+	
+	public void test() {
+		
+	}
 }
