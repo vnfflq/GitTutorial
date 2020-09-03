@@ -12,6 +12,7 @@ public class GitHubBaseUtils {
 	
 	// tutorial/merge
 	public String getOne(String str) {
+		System.out.println("이거는 되돌려야하는 거");
 		return "1";
 	}
 }
